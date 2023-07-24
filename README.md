@@ -9,7 +9,7 @@ Skilled in creating responsive designs, UI Design, HTML Emails and social media 
 
 
 🛠️ LANGUAGES & TOOLS :
-HTML    CSS   JavaScript     Git    VSCode 
+HTML5 ,CSS3 ,JavaScript  ,React Js. & Git  ,VSCode 
 
 📖 CURRENTLY LEARNING :
 JavaScript & React Js.
